@@ -18,4 +18,4 @@ An average run time of one employee is 2 hours~
 
 Also, notice we didn't provide a private link to the collected dataset because the scraping is done as a part of the notebook.
 
-Videos: <Br> [Tech video]() <br> [Customer video]()
+Videos folder: <Br> [folder](https://technionmail-my.sharepoint.com/:f:/g/personal/snetanel_campus_technion_ac_il/EhRUnXLuqr1GrY6K4TED474BOjoB2cT5nuc0eOogFP4ygQ?e=hJpDd2)
